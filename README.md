@@ -5,7 +5,7 @@ Originally, it was used to aid for an assignment related to loading these data f
 # Usage
 ./ascii  
 The above command would load the grid view for editing.  
-./ascii -l | -r "0, 1, 0, 1, "  
+./ascii -l (or -r) "0, 1, 0, 1, "  
 The above command would load an old output of the program.  
 Difference between -l and -r is -r would only load and view the image, and end program, while -l loads and allows editing.
 
